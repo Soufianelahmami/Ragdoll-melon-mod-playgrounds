@@ -39,37 +39,37 @@
 },
 
   "my_data":[
-    {"title":"title1 ser",
-      "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 1",
+      "desc":"Ragdoll melon mod playground 1",
+      "photo":"https://iili.io/H4qI7bS.jpg"},
 
-    {"title":"title2 ser",
-      "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 2",
+      "desc":"Ragdoll melon mod playground 2",
+      "photo":"https://iili.io/H4qIcX9.jpg"},
 
-    {"title":"title3 ser",
-      "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 3",
+      "desc":"Ragdoll melon mod playground 3",
+      "photo":"https://iili.io/H4fIjuS.jpg"},
 
-    {"title":"title4 ser",
-      "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 4",
+      "desc":"Ragdoll melon mod playground 4",
+      "photo":"https://iili.io/H4fIww7.jpg"},
 
-    {"title":"title5 ser",
-      "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 5",
+      "desc":"Ragdoll melon mod playground 5",
+      "photo":"https://iili.io/H4fIv6b.jpg"},
 
-    {"title":"title6 ser",
-      "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 6",
+      "desc":"Ragdoll melon mod playground 6",
+      "photo":"https://iili.io/H4qI1qu.jpg"},
 
-    {"title":"title7 ser",
-      "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 7",
+      "desc":"Ragdoll melon mod playground 7",
+      "photo":"https://iili.io/H4qIE0b.jpg"},
 
-    {"title":"title8 ser",
-      "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+    {"title":"Mod Pack 8",
+      "desc":"Ragdoll melon mod playground 8",
+      "photo":"https://iili.io/H4qIVdx.jpg"}
   ]
 
 }
